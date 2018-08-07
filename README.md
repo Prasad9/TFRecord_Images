@@ -1,8 +1,7 @@
 # Demonstration to add and extract images from TFRecord with Dataset and Iterator
 Illustration of how to create TFRecord with images and pipelined into Datasets and Iterators.
 
-You can read the full detailed explanation about the code used in this repository in [my Medium post]
-(https://medium.com/ymedialabs-innovation/how-to-use-tfrecord-with-datasets-and-iterators-in-tensorflow-with-code-samples-ffee57d298af).
+You can read the full detailed explanation about the code used in this repository in [my Medium post](https://medium.com/ymedialabs-innovation/how-to-use-tfrecord-with-datasets-and-iterators-in-tensorflow-with-code-samples-ffee57d298af).
 
 You may go through each of the file for the specific code samples listed below.
 
